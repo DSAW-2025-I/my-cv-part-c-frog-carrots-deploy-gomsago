@@ -85,5 +85,9 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+![image](https://github.com/user-attachments/assets/959f9257-8fbe-4249-a4fa-3a4bc75b63fc)
+![image](https://github.com/user-attachments/assets/9a71250e-91a5-41e8-a1cc-71952ac4f6a1)
+
+
 
 Juan José Gómez Saavedra
